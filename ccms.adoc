@@ -2,7 +2,7 @@
 // To build HTML:
 //     asciidoctor -a docinfo=shared *.adoc
 
-= Draft CCMS Documentation
+= CCMS Design Documentation
 :icons: font
 :sectnums:
 :sectnumlevels: 4
@@ -11,8 +11,9 @@
 :toc-title: Contents
 :source-highlighter: rouge
 
-This is draft documentation for the CCMS (Collaborative Collections
-Management System) prototype.
+*This is draft design documentation for the CCMS (Collaborative
+Collections Management System).  It describes features that may or may
+not be currently implemented.*
 
 include::userguide.adoc[]
 
